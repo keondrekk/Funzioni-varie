@@ -8,7 +8,7 @@ All'interno delle funzioni sono state utilizzate delle coercizioni (forzare un v
 
 Vi è anche una breve illustrazione su diverse funzioni apply:
 
-- apply(): applicabile solo ai dataframe. 
+- apply(): applicabile su matrici, vettori, dataframe
 - lapply(): restituisce una lista.
 - sapply(): restituisce una matrice o vettore.
 - mapply(): funzione ciclica, ad ogni elemento di un vettore viene fatta un'operazione sull'altro vettore.
