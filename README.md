@@ -11,4 +11,5 @@ Vi è anche una breve illustrazione su diverse funzioni apply:
 - apply(): applicabile su matrici, vettori, dataframe
 - lapply(): restituisce una lista.
 - sapply(): applica una funzione su una lista ed attraverso il parametro semplify permettere di scegliere il tipo di output che deve essere restituito.
+- vapply(): funzione ancor più specifica di sapply che permette attraverso l'argomento fun.value di specificare che tipo di vettore ci si aspetta ottenere (es: numeric()).
 - mapply(): funzione ciclica, ad ogni elemento di un vettore viene fatta un'operazione sull'altro vettore.
